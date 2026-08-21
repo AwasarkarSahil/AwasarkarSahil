@@ -13,7 +13,7 @@ I turn raw data into decisions — combining technical execution (SQL/Python/das
 
 - ⚙️ **Data Engineering** — built Python/SQL ETL pipelines to clean, classify, and structure large datasets
 
-- 🧑‍💻 Industry experience at **Suma Soft**
+- 🧑‍💻 Working experience at **Suma Soft**
 
 - 🎓 **B.E. in Artificial Intelligence and Data Science**
 
